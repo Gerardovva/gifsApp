@@ -26,4 +26,7 @@ export class LazyImageComponent implements OnInit {
     }, 100);
   }
 
+
+
+  
 }
